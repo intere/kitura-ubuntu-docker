@@ -23,5 +23,5 @@ set -e
 
 # Run test cases for Kitura
 echo ">> About to test Kitura..."
-cd /root/Kitura-Sample && swift test
+cd /root/Kitura-TodoList && swift test
 echo ">> Finished execution of tests for Kitura (see above for results)."

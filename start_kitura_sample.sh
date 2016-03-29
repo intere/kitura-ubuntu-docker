@@ -20,4 +20,4 @@
 set -e
 
 # Run Kitura sample
-cd /root/Kitura-Sample && ./.build/debug/KituraSample
+cd /root/Kitura-TodoList && ./.build/debug/TodoList

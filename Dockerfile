@@ -27,7 +27,7 @@ EXPOSE 8090
 # Variables
 ENV HOME /root
 ENV WORK_DIR /root
-ENV KITURA_BRANCH develop
+ENV KITURA_BRANCH master
 
 # Linux OS utils and dependencies
 RUN apt-get update
